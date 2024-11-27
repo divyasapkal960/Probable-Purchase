@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#g{
+    width: 93px;
+    height: 33px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#g:hover{
+    background-color: blue;
+}
+
+#abc{
+    width: 133px;
+    height: 33px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#abc:hover{
+    background-color:brown;
+}
+
+#sub{
+    width: 133px;
+    height: 33px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
